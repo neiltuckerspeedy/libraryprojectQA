@@ -1,5 +1,5 @@
 #flowchart
-```Mermaid
+```mermaid
 flowchart LR
   A --> B
 ```
