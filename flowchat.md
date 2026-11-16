@@ -1,5 +1,5 @@
 #flowchart
 ```Mermaid
 flowchart LR
-A --> B
+  A --> B
 ```
