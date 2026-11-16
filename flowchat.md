@@ -1,5 +1,8 @@
 #flowchart
 ```mermaid
 flowchart LR
-  A --> B
+  A [Original Files] -->
+  B [Bronze - lake] -->
+  C [Silver - Clean] -->
+  D [Gold - Aggreagated/ Reporting]
 ```
