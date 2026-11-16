@@ -1,0 +1,5 @@
+#flowchar
+``` Mermaid
+flowchat LR
+  A --> B
+```
